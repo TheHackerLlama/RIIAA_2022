@@ -6,6 +6,8 @@ Recursos:
 * https://huggingface.co/spaces/launch
 * https://huggingface.co/course/chapter1/1
 * https://github.com/gradio-app/gradio
+* https://nlp-en-es.org/ 
+* https://github.com/huggingface/education-toolkit
 
 Demos
 * https://huggingface.co/spaces/dalle-mini/dalle-mini
